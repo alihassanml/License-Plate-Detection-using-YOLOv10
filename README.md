@@ -73,7 +73,7 @@ YOLOv10 is used for real-time object detection, known for its speed and accuracy
 
 The model is capable of detecting number plates in real-time with high accuracy. Sample results are shown below:
 
-![License Plate Detection Result](./images/detection_example_result.jpg)
+![License Plate Detection Result](./model/train/val_batch2_labels.jpg)
 
 - Detected license plates in various live video streams
 - Accurate bounding boxes even in low-light conditions
